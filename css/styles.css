@@ -1,5 +1,5 @@
 .header{
-  background-image:url("landing.jpg");
+  background-image:url("..//assets/backgrounds/landing.jpg");
   text-align: center;
   font-style: oblique;
   background-position: center;
@@ -39,4 +39,10 @@ text-align: center;
   background-size: contain;
 }
 .fast-food{
+}
+
+.vashti{
+  background-image: url("..//assets/backgrounds/foodsBg.jpg");
+  background-blend-mode: lighten;
+  height: 600px;
 }
