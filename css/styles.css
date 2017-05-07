@@ -21,7 +21,7 @@ text-align: center;
 }
 
 .party{
-  background-color: darkorange;
+  background-color: #FF4500;
 }
 .breko{
   background-image: url("../assets/foodtop/breakfast.jpg");
@@ -39,10 +39,61 @@ text-align: center;
   background-size: contain;
 }
 .fast-food{
+  padding-top: 70px;
+}
+.drinks{
+  padding-top: 70px;
 }
 
 .vashti{
   background-image: url("..//assets/backgrounds/foodsBg.jpg");
+  background-position: center;
+  background-size: cover;
   background-blend-mode: lighten;
-  height: 600px;
+  height: 500px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.part{
+  font-size: 30px;
+  padding-top: 80px;
+  padding-bottom: 10px;
+  background-color: lightgrey;
+
+}
+.fast{
+  background-color: white;
+}
+
+.last{
+  border-style: outset;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 70px;
+  margin-bottom: 90px;
+}
+.footer{
+  text-align: center;
+  padding-top: 100px;
+  background-image: url("..//assets/backgrounds/subscribe.jpg");
+  height: 300px;
+  color: white;
+  font-size: 20px;
+}
+#subscribe{
+  width: 300px;
+  margin-right: 20px;
+  background-color: lightgrey;
+}
+.btn{
+  width: 150px;
+  background-color: #FF4500;
+}
+.mwisho{
+  margin:0px;:0px;:0px;:0px;
+  padding-top: 40px;
+  text-align: center;
+  height: 300px;
+  background-color: #FF4500;
+  color: white;
 }
