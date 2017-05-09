@@ -41,6 +41,34 @@ text-align: center;
 .fast-food{
   padding-top: 70px;
 }
+.picture-border{
+  border-style: outset;
+}
+.button:hover{
+  background-color: #F15A29;
+  display: inline-block;
+  cursor: pointer;
+  color: white;
+}
+
+.button1{
+  text-align: center;
+  background-color: white;
+  padding:30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-color: #FF4500;
+  color: #F15A29;
+}
+.button2{
+  text-align: center;
+  background-color: white;
+  padding:30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-color: #FF4500;
+  color: #F15A29;
+}
 .drinks{
   padding-top: 70px;
 }
@@ -71,6 +99,8 @@ text-align: center;
   padding-bottom: 40px;
   margin-top: 70px;
   margin-bottom: 90px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .footer{
   text-align: center;
