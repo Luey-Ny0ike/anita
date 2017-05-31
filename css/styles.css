@@ -1,5 +1,5 @@
-.header{
-  background-image:url("..//assets/backgrounds/landing.jpg");
+.header {
+  background-image: url("..//assets/backgrounds/landing.jpg");
   text-align: center;
   font-style: oblique;
   background-position: center;
@@ -9,71 +9,79 @@
   min-height: 300px;
 }
 
-.menu{
-background-color: grey;
-font-size: 50px;
-font-style: italic;
-text-align: center;
+.menu {
+  background-color: grey;
+  font-size: 50px;
+  font-style: italic;
+  text-align: center;
 }
 
-.happy{
-  background-color:grey;
+.happy {
+  background-color: grey;
 }
 
-.party{
+.party {
   background-color: #FF4500;
 }
-.breko{
+
+.breko {
   background-image: url("../assets/foodtop/breakfast.jpg");
   background-position: center;
   background-size: cover;
 }
-.lunch{
+
+.lunch {
   background-image: url("../assets/foodtop/lunch.jpg");
   background-position: center;
   background-size: cover;
 }
-.dinner{
+
+.dinner {
   background-image: url("../assets/foodtop/dinner.jpg");
   background-position: center;
   background-size: contain;
 }
-.fast-food{
+
+.fast-food {
   padding-top: 70px;
 }
-.picture-border{
+
+.picture-border {
   border-style: outset;
 }
-.button:hover{
+
+.button:hover {
   background-color: #F15A29;
   display: inline-block;
   cursor: pointer;
   color: white;
 }
 
-.button1{
+.button1 {
   text-align: center;
   background-color: white;
-  padding:30px;
+  padding: 30px;
   padding-top: 10px;
   padding-bottom: 10px;
   border-color: #FF4500;
   color: #F15A29;
 }
-.button2{
+
+.button2 {
   text-align: center;
   background-color: white;
-  padding:30px;
+  padding: 30px;
   padding-top: 10px;
   padding-bottom: 10px;
   border-color: #FF4500;
   color: #F15A29;
 }
-.drinks{
+
+.drinks {
   padding-top: 70px;
 }
 
-.vashti{
+.vashti {
   background-image: url("..//assets/backgrounds/foodsBg.jpg");
   background-position: center;
   background-size: cover;
@@ -81,19 +89,22 @@ text-align: center;
   height: 500px;
   margin-bottom: 40px;
   margin-top: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
-.part{
+
+.part {
   font-size: 30px;
   padding-top: 80px;
   padding-bottom: 10px;
   background-color: lightgrey;
-
 }
-.fast{
+
+.fast {
   background-color: white;
 }
 
-.last{
+.last {
   border-style: outset;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -102,7 +113,8 @@ text-align: center;
   margin-left: 100px;
   margin-right: 100px;
 }
-.footer{
+
+.footer {
   text-align: center;
   padding-top: 100px;
   background-image: url("..//assets/backgrounds/subscribe.jpg");
@@ -110,17 +122,24 @@ text-align: center;
   color: white;
   font-size: 20px;
 }
-#subscribe{
+
+#subscribe {
   width: 300px;
   margin-right: 20px;
   background-color: lightgrey;
 }
-.btn{
+
+.btn {
   width: 150px;
   background-color: #FF4500;
+  cursor: pointer;
 }
-.mwisho{
-  margin:0px;:0px;:0px;:0px;
+
+.mwisho {
+  margin: 0px;
+  : 0px;
+  : 0px;
+  : 0px;
   padding-top: 40px;
   text-align: center;
   height: 300px;
